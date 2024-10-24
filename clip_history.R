@@ -8,7 +8,7 @@ mask.function <- function(raster, shapefile){ dat <- mask(raster, shapefile)}
 rast <- rast("D:/DES data/herbert_monthly_fractional cover/lztmre_herbert_202012_dp5a2.tif")
 
 #Upload riparian vegetation buffer (.shp)
-
+riparian <- vect("D:/DES data/Herbert_riparianArea_50m/Herbert_riparianArea_50m.shp")
 
 # Create a list of monitoring site polygons (.shp)
 gauge_shp <- list(s1160122, s1160126, s1160127)
