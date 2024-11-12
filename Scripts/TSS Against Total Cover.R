@@ -1,3 +1,6 @@
+#Read in csv data 
+coredata <- read.csv("Inputs/coredata.csv")
+
 #Graph 1 code for scatter plot of TSSeq against TC with regression lines for each site class and season 
 ggplot(data = coredata, aes(x = n2TC, y = n2mean, color = newgroup, shape = season)) + 
   geom_point(alpha = 0.6) + 

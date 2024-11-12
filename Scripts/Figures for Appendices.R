@@ -1,3 +1,6 @@
+#Read in csv data 
+coredata <- read.csv("Inputs/coredata.csv")
+
 #Histogram to visualise data distribution and inform approrpiate statistical analyses (refer to thesis Appendix G and H)
 ggplot(coredata, aes( x = mean))+geom_histogram()+facet_grid(season~newgroup)
 + labs(title = "TSSeq (mean) data distribution by site class and season", x = "TSSeq (mg/L)")
