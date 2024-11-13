@@ -22,12 +22,10 @@ Investigating statistical correlations between total suspended solids equivalent
 **Coredata.csv**: Used for all scripts and analyses.
 
 ## 2. Scripts
-1. **TSS Against Total Cover**: 
+1. **TSS Against Total Cover**: Scatter plots with regression lines - Scatter with Regression lines with each site class and season 
+2. **Spatial Data Clip Process**
+3. **Figures for Appendices**: Histograms, Auto Correlation Functions 
 
-2. **Scatter with Regression Lines**: Scatter plots with regression lines for each site class and season.
-
-3. **Spatial Data Clip Process**
-4. **Figures for Appendices**: Histograms, Auto Correlation Functions 
-
-4. DESI Water Quality Investigations Team – Sediment data
+## 2. Credits and Acknowledgements 
+DESI Water Quality Investigations Team – Sediment data
 DETSI Ground Cover Monitoring Program – Spatial data.
