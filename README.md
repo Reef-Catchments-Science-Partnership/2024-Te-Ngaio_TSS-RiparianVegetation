@@ -12,10 +12,9 @@ Investigating statistical correlations between total suspended solids equivalent
 
 1. Inputs
 2. Scripts
-3. Figures for Appendices
-4. Credits
-5. Citation
-6. Contact Details
+3. Credits and Acknowledgements
+4. Citation
+5. Contact Details
 
 ## 1. Inputs
 
@@ -26,6 +25,12 @@ Investigating statistical correlations between total suspended solids equivalent
 2. **Spatial Data Clip Process**
 3. **Figures for Appendices**: Histograms, Auto Correlation Functions 
 
-## 2. Credits and Acknowledgements 
-DESI Water Quality Investigations Team – Sediment data
-DETSI Ground Cover Monitoring Program – Spatial data.
+## 3. Credits and Acknowledgements 
+- DETSI Water Quality Investigations Team – Sediment data
+- DETSI Ground Cover Monitoring Program – Spatial data.
+
+## 4. Citation
+Reef Catchments Science Partnership. (2024). *Te Ngaio TSS-RV*. GitHub. https://github.com/Reef-Catchments-Science-Partnership/2024-Te-Ngaio_TSS-RV
+
+## 5. Contact Details
+Please contact rcsp.info@uq.edu.au for any inquiries related to this repository.
