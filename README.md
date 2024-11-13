@@ -1,3 +1,6 @@
+![RCSP LOGO_Wide 2 (1)](https://github.com/user-attachments/assets/ace4ab00-1409-45b0-8e6e-7c514e7bb700)
+
+
 # Statistical Correlations between Water Quality and Riparian Vegetation in the Hebert Catchment
 ## Project Overview
 
