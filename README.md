@@ -7,7 +7,7 @@
 **Owner/s:** Payton Te Ngaio and Ryan Turner  
 **Project Name:** Statistical correlations between water quality and riparian vegetation in the Hebert catchment  
 **Date Started:** 22/01/2024  
-**Date Last Updated:** 13/11/2024 
+**Date Last Updated:** 14/11/2024 
 ### Project Description
 Investigating statistical correlations between total suspended solids equivalent (mg/L) and total riparian vegetation cover (%) at 14 monitoring sites in the Hebert catchment water quality monitoring program.
 
