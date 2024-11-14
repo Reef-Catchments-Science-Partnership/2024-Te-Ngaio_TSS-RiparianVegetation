@@ -30,6 +30,7 @@ Investigating statistical correlations between total suspended solids equivalent
 
 ## 3. Credits and Acknowledgements 
 DETSI Water Quality Investigations Team – Total suspended solid equivilent data
+
 DETSI Ground Cover Monitoring Program – Spatial data
 
 ## 4. Citation
