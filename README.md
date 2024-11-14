@@ -21,7 +21,7 @@ Investigating statistical correlations between total suspended solids equivalent
 
 ## 1. Inputs
 
-**Coredata.csv**: Used for all scripts and analyses.
+**Coredata.csv**: Used for all scripts and analyses
 
 ## 2. Scripts
 1. **TSS Against Total Cover**: Scatter plots with regression lines - Scatter with Regression lines with each site class and season 
@@ -29,8 +29,8 @@ Investigating statistical correlations between total suspended solids equivalent
 3. **Figures for Appendices**: Histograms, Auto Correlation Functions 
 
 ## 3. Credits and Acknowledgements 
-- DETSI Water Quality Investigations Team – Total suspended solid equivilent data
-- DETSI Ground Cover Monitoring Program – Spatial data.
+DETSI Water Quality Investigations Team – Total suspended solid equivilent data
+DETSI Ground Cover Monitoring Program – Spatial data
 
 ## 4. Citation
 Reef Catchments Science Partnership. (2024). *Te Ngaio TSS-RV*. GitHub. https://github.com/Reef-Catchments-Science-Partnership/2024-Te-Ngaio_TSS-RV
