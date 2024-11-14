@@ -25,7 +25,7 @@ Investigating statistical correlations between total suspended solids equivalent
 
 ## 2. Scripts
 1. **TSS Against Total Cover**: Scatter plots with regression lines - Scatter with Regression lines with each site class and season 
-2. **Spatial Data Clip Process**
+2. **Spatial Data Clip Process** : All monitoring site polygons are GDA1994
 3. **Figures for Appendices**: Histograms, Auto Correlation Functions 
 
 ## 3. Credits and Acknowledgements 
@@ -37,3 +37,7 @@ Reef Catchments Science Partnership. (2024). *Te Ngaio TSS-RV*. GitHub. https://
 
 ## 5. Contact Details
 Please contact rcsp.info@uq.edu.au for any inquiries related to this repository.
+
+Your message is mostly clear, but I've made a few minor corrections for clarity and spelling:
+
+Spatial data, including riparian vegetation layers, buffer zones, and monitoring site polygons, are stored on an external drive and are not available in this GitHub repository. Please contact rcsp.info@uq.edu.au to inquire about access to these files.
