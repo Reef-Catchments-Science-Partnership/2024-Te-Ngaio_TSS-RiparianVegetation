@@ -4,7 +4,7 @@
 # Statistical Correlations between Water Quality and Riparian Vegetation in the Hebert Catchment
 ## Project Overview
 
-**Owner/s:** Payton Te Ngaio and Ryan Turner  
+**Owner/s:** Payton Te Ngaio,  Ryan Turner and Joseph McMahon  
 **Project Name:** Statistical correlations between water quality and riparian vegetation in the Hebert catchment  
 **Date Started:** 22/01/2024  
 **Date Last Updated:** 14/11/2024 
@@ -29,7 +29,7 @@ Investigating statistical correlations between total suspended solids equivalent
 3. **Figures for Appendices**: Histograms, Auto Correlation Functions 
 
 ## 3. Credits and Acknowledgements 
-- DETSI Water Quality Investigations Team – Sediment data
+- DETSI Water Quality Investigations Team – Total suspended solid equivilent data
 - DETSI Ground Cover Monitoring Program – Spatial data.
 
 ## 4. Citation
