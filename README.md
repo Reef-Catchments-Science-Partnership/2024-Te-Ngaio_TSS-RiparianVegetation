@@ -13,13 +13,13 @@ Investigating statistical correlations between total suspended solids equivalent
 
 ## Table of Contents
 
-1. Inputs
+1. Data
 2. Scripts
 3. Credits and Acknowledgements
 4. Citation
 5. Contact Details
 
-## 1. Inputs
+## 1. Data
 
 **Coredata.csv**: Used for all scripts and analyses
 
