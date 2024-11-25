@@ -24,9 +24,14 @@ Investigating statistical correlations between total suspended solids equivalent
 **Coredata.csv**: Used for all scripts and analyses
 
 ## 2. Scripts
-1. **TSS Against Total Cover**: Scatter plots with regression lines - Scatter with Regression lines with each site class and season 
-2. **Spatial Data Clip Process** : All monitoring site polygons are GDA1994
-3. **Figures for Appendices**: Histograms, Auto Correlation Functions 
+1. **TSS Against Total Cover**:
+- Scatter with Regression lines with each site class and season 
+3. **Spatial Data Clip Process**:
+- Using R to derive site specific riparian buffer and reduce/clip catchment wide fractional cover raster to site specific riparian buffer.
+- All monitoring site polygons are GDA1994
+4. **Figures for Appendices**:
+- Histograms
+- Auto Correlation Functions 
 
 ## 3. Credits and Acknowledgements 
 DETSI Water Quality Investigations Team – Total suspended solid equivilent data
